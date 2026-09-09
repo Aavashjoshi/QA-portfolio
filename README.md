@@ -10,7 +10,7 @@ running them, and the defects found.
 
 | Project | What was tested | Result |
 |---|---|---|
-| [01-career-connect](01-career-connect) | Auth module of a MERN job portal - signup, OTP verification and login | 64 test cases, 10 defects, 2 of them security issues |
+| [01-career-connect](Auth_testcases) | Auth module of a MERN job portal - signup, OTP verification and login | 64 test cases, 10 defects, 2 of them security issues |
 
 ## About the testing
 
