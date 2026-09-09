@@ -7,10 +7,10 @@ portal. The app was run locally and every case was executed by hand in the brows
 
 | | Signup | OTP | Login | Total |
 |---|---|---|---|---|
-| Cases | 28 | 15 | 21 | **64** |
+| Cases | 28 | 15 | 16 | **59** |
 | Pass | 22 | 13 | 13 | **48** |
 | Fail | 6 | 1 | 3 | **10** |
-| Not executed | 0 | 1 | 5 | **6** |
+| Not executed | 0 | 1 | 0 | **1** |
 
 ## Defects
 
