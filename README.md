@@ -3,26 +3,28 @@
 Manual testing work by Aavash Joshi, an IT graduate based in Kathmandu moving into software quality
 assurance.
 
-Each folder holds a complete piece of testing on a real application: the test cases, the results of
-running them, and the defects found.
+Each folder holds a full piece of testing on a real application: the test cases, what happened when
+they were run, and the defects found.
+
+**119 test cases | 112 run | 16 defects**
 
 ## Projects
 
-| Project | What was tested | Result |
+| Folder | What was tested | Result |
 |---|---|---|
-| [01-career-connect](Auth_testcases) | Auth module of a MERN job portal - signup, OTP verification and login | 64 test cases, 10 defects, 2 of them security issues |
+| [01-career-connect](Auth_testcases) | Auth module of a MERN job portal - signup, OTP and login | 64 cases, 10 defects, 2 of them security |
+| [02-career-connect-job](JOB_Testcases) | Job module of the same portal - posting, search, filter and job detail | 55 cases, 6 defects |
 
-## About the testing
+## How the testing is done
 
-The applications are run locally and every case is executed by hand through the browser. Results
-are recorded as observed, including the cases that pass, and nothing is marked complete unless it
-was actually run.
+The app is run locally and every case is run by hand in the browser. Results are written down as
+seen, including the cases that pass. Nothing is marked done unless it was really run.
 
-Test cases are designed using equivalence partitioning and boundary value analysis, with negative
-and security cases written alongside the positive ones.
+Cases are designed with equivalence partitioning and boundary value analysis, with negative and
+security cases next to the positive ones.
 
-Each project folder contains the same set of files: a README with the findings, the test cases as
-CSV so they can be read directly on GitHub, a defect log, and the full workbook as an Excel file.
+Each folder has the same set of files: a README with the findings, the test cases as CSV so they
+open as tables here in GitHub, a defect log, and the full workbook as an Excel file.
 
 ## Contact
 
