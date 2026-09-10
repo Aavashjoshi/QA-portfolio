@@ -3,7 +3,7 @@
 Manual testing of the signup, OTP verification and login screens of Career Connect, a MERN job
 portal. The app was run locally and every case was executed by hand in the browser.
 
-**64 test cases | 58 executed | 10 defects | 82.8% pass rate**
+**59 test cases | 58 executed | 10 defects | 82.8% pass rate**
 
 | | Signup | OTP | Login | Total |
 |---|---|---|---|---|
